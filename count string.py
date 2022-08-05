@@ -1,0 +1,16 @@
+   
+String='constitution'
+count1=String.count('c')
+count2=String.count('o')
+count3=String.count('n')
+count4=String.count('s')
+count5=String.count('t')
+count6=String.count('i')
+count7=String.count('u')
+print("c: "+str(count1))
+print  ("o: "+str(count2)) 
+print  ("n: "+str(count3)) 
+print  ("s: "+str(count4)) 
+print  ("t: "+str(count5)) 
+print  ("i: "+str(count6)) 
+print  ("u: "+str(count7)) 
